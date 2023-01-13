@@ -27,4 +27,4 @@ You can preview the production build with `npm run preview`.
 
 ## Demo
 
-`Muslimpedia`](https://muslimpedia-4kb1.vercel.app/).
+[`Muslimpedia`](https://muslimpedia-4kb1.vercel.app/).
